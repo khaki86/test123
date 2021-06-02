@@ -2,4 +2,6 @@
 
 echo "Halli Hallo!"
 
+echo date();
+
 ?>
