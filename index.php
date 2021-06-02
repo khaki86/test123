@@ -2,6 +2,8 @@
 
 echo "Halli Hallo!";
 
-echo date("Y/m/d");
+echo "<br> Hier Datum" . date("Y/m/d");
+
+
 
 ?>
