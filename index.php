@@ -1,7 +1,7 @@
 <?php
 
-echo "Halli Hallo!"
+echo "Halli Hallo!";
 
-echo date();
+echo "date("Y/m/d")";
 
 ?>
