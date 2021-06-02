@@ -2,7 +2,8 @@
 
 echo "Halli Hallo!";
 
-echo "<br> Hier Datum" . date("Y/m/d");
+echo "<br> Hier Datum: " . date("Y/m/d");
+
 
 
 
